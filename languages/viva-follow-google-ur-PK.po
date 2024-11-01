@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Viva Follow Google\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-12 05:07+0530\n"
+"PO-Revision-Date: 2016-01-12 05:25+0530\n"
+"Last-Translator: Pranjali Phulwari <support@vivacityinfotech.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /opt/lampp/htdocs/wp-plugin-work/wp-content/plugins/\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: viva-follow-google\n"
+
+#: viva-follow-google/viva-follow-google.php:30
+msgid "Changes Saved"
+msgstr "تبدیلیوں کو محفوظ"
+
+#: viva-follow-google/viva-follow-google.php:84
+msgid "WP Google Follow Button Settings"
+msgstr "WP گوگل فالو بٹن کی ترتیبات"
+
+#: viva-follow-google/viva-follow-google.php:102
+msgid "Google Plus Profile URL"
+msgstr "گوگل پلس پروفائل یو آر ایل"
+
+#: viva-follow-google/viva-follow-google.php:113
+msgid "Bubble options"
+msgstr "گوگل پلس پروفائل یو آر ایل"
+
+#: viva-follow-google/viva-follow-google.php:118
+msgid "Horizontal Bubble"
+msgstr "افقی بلبلا"
+
+#: viva-follow-google/viva-follow-google.php:120
+msgid "Vertical Bubble"
+msgstr "عمودی بلبلا"
+
+#: viva-follow-google/viva-follow-google.php:121
+msgid "None"
+msgstr "کوئی بھی"
+
+#: viva-follow-google/viva-follow-google.php:129
+msgid "Button Size"
+msgstr "بٹن سائز"
+
+#: viva-follow-google/viva-follow-google.php:135
+msgid "Small"
+msgstr "چھوٹ"
+
+#: viva-follow-google/viva-follow-google.php:136
+msgid "Medium"
+msgstr "میڈیم"
+
+#: viva-follow-google/viva-follow-google.php:137
+msgid "Large"
+msgstr "بڑے"
+
+#: viva-follow-google/viva-follow-google.php:145
+msgid "Language"
+msgstr "زبان"
+
+#: viva-follow-google/viva-follow-google.php:218
+msgid "Save Changes"
+msgstr "تبدیلیاں محفوظ کرو"
+
+#: viva-follow-google/viva-follow-google.php:228
+msgid "Download Free Plugins"
+msgstr "مفت پلگ ان ڈاؤن لوڈ، اتارنا"
+
+#: viva-follow-google/viva-follow-google.php:232
+msgid "Vivacity InfoTech Pvt. Ltd. is an ISO 9001:2008 Certified Company is a Global IT Services company with expertise in outsourced product development and custom software development with focusing on software development, IT consulting, customized development.We have 200+ satisfied clients worldwide."
+msgstr "سجیوتا انفوٹیک پرائیوٹ . لمیٹڈ ایک ISO 9001 : 2008 مصدقہ کمپنی development.We اپنی مرضی کے مطابق ، مشاورت ہے 200+ مطمئن گاہکوں دنیا بھر میں سافٹ ویئر کی ترقی پر توجہ مرکوز کے ساتھ باہر کی مصنوعات کی ترقی اور کسٹم سافٹ ویئر کی ترقی میں مہارت کے ساتھ ایک عالمی آئی ٹی خدمات کمپنی ہے ."
+
+#: viva-follow-google/viva-follow-google.php:233
+msgid "Our Top 5 Latest Plugins"
+msgstr "ہماری سب سے اوپر 5 تازہ ترین پلگ ان"
+
+#: viva-follow-google/viva-follow-google.php:236
+msgid "Woocommerce Social Buttons"
+msgstr "Woocommerce کے سماجی بٹن"
+
+#: viva-follow-google/viva-follow-google.php:237
+msgid "Vi Random Post Widget"
+msgstr "VI رینڈم پوسٹ ویجیٹ"
+
+#: viva-follow-google/viva-follow-google.php:238
+msgid "WP EasyScroll Posts"
+msgstr "WP EasyScroll پوسٹس"
+
+#: viva-follow-google/viva-follow-google.php:239
+msgid "BuddyPress Social Icons"
+msgstr "BuddyPress مرکزی سماجی شبیہیں"
+
+#: viva-follow-google/viva-follow-google.php:240
+msgid "WP Facebook Like Button"
+msgstr "WP فیس بک کی طرح بٹن"
+
+#: viva-follow-google/viva-follow-google.php:245
+#: viva-follow-google/viva-follow-google.php:248
+#: viva-follow-google/viva-follow-google.php:255
+#: viva-follow-google/viva-follow-google.php:262
+msgid "Donate Here"
+msgstr "یہاں عطیہ"
+
+#: viva-follow-google/viva-follow-google.php:247
+msgid "If you want to donate , please click on below image."
+msgstr "آپ کو عطیہ کرنا چاہتے ہیں تو ، ذیل کی تصویر پر کلک کریں براہ مہربانی ."
+
+#: viva-follow-google/viva-follow-google.php:252
+msgid "Woocommerce Frontend Plugin"
+msgstr "Woocommerce کے فرنٹ اینڈ پلگ ان"
+
+#: viva-follow-google/viva-follow-google.php:254
+#: viva-follow-google/viva-follow-google.php:261
+msgid "If you want to purchase , please click on below image."
+msgstr "آپ کی خریداری کے لئے چاہتے ہیں ، ذیل کی تصویر پر کلک کریں براہ مہربانی ."
+
+#: viva-follow-google/viva-follow-google.php:259
+msgid "Blue Frog Template"
+msgstr "بلیو مینڈک سانچہ"
+
+#: viva-follow-google/viva-follow-google.php:297
+msgid "Google plus follow Widget"
+msgstr "گوگل پلس پر عمل ویجیٹ"
+
+#: viva-follow-google/viva-follow-google.php:300
+msgid "Sample widget based on Google plus follow button"
+msgstr "نمونہ ویجیٹ گوگل پر مبنی علاوہ بٹن پر عمل کریں"
+
+#: viva-follow-google/viva-follow-google.php:340
+msgid "New title"
+msgstr "نئے عنوان"
+
+#: viva-follow-google/viva-follow-google.php:345
+msgid "Title:"
+msgstr "عنوان:"
+

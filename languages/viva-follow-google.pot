@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Viva Follow Google\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-12 17:04+0530\n"
+"PO-Revision-Date: 2016-01-12 17:04+0530\n"
+"Last-Translator: Pranjali Phulwari <support@vivacityinfotech.com>\n"
+"Language-Team: Team Vivacity <support@vivacityinfotech.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /opt/lampp/htdocs/wp-plugin-work/wp-content/plugins/\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: viva-follow-google\n"
+
+#: viva-follow-google/viva-follow-google.php:141
+msgid "WP Google Follow Button Settings"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:148
+msgid "Changes Saved"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:165
+#: viva-follow-google/viva-follow-google.php:307
+msgid "Google Plus Profile URL"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:176
+msgid "Bubble options"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:181
+msgid "Horizontal Bubble"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:183
+msgid "Vertical Bubble"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:184
+msgid "None"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:192
+msgid "Button Size"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:198
+msgid "Small"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:199
+msgid "Medium"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:200
+msgid "Large"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:208
+#: viva-follow-google/viva-follow-google.php:358
+msgid "Language"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:281
+#: viva-follow-google/viva-follow-google.php:463
+msgid "Save Changes"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:317
+msgid "Width"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:328
+msgid "Layout"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:333
+msgid "Portrait"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:335
+msgid "landscape"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:343
+msgid "Show cover photo"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:349
+#: viva-follow-google/viva-follow-google.php:437
+msgid "True"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:350
+#: viva-follow-google/viva-follow-google.php:438
+msgid "False"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:431
+msgid "Show Tagline"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:446
+msgid "Theme"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:452
+msgid "Light"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:453
+msgid "Dark"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:479
+msgid "Download Free Plugins"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:484
+msgid "Vivacity InfoTech Pvt. Ltd. is an ISO 9001:2008 Certified Company is a Global IT Services company with expertise in outsourced product development and custom software development with focusing on software development, IT consulting, customized development.We have 200+ satisfied clients worldwide."
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:486
+msgid "Our Top 5 Latest Plugins"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:491
+msgid "Woocommerce Social Buttons"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:492
+msgid "Vi Random Post Widget"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:493
+msgid "WP EasyScroll Posts"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:494
+msgid "BuddyPress Social Icons"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:495
+msgid "WP Facebook Like Button"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:501
+#: viva-follow-google/viva-follow-google.php:505
+#: viva-follow-google/viva-follow-google.php:514
+#: viva-follow-google/viva-follow-google.php:523
+msgid "Donate Here"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:504
+msgid "If you want to donate , please click on below image."
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:510
+msgid "Woocommerce Frontend Plugin"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:513
+#: viva-follow-google/viva-follow-google.php:522
+msgid "If you want to purchase , please click on below image."
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:519
+msgid "Blue Frog Template"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:558
+msgid "Google plus follow Widget"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:561
+msgid "Sample widget based on Google plus follow button"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:601
+msgid "New title"
+msgstr ""
+
+#: viva-follow-google/viva-follow-google.php:606
+msgid "Title:"
+msgstr ""
+
